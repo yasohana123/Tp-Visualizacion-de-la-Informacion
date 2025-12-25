@@ -3,8 +3,9 @@
 Trabajo Práctico: Visualización de Datos Interactiva - Visualización de la Información - ITBA (2025).
 
 ## 🗃️ Dataset
-- **Fuente**: [Online Retail II]((https://archive.ics.uci.edu/dataset/502/online+retail+ii))
-Dataset: Online Retail II (UCI). Contiene información de las transacciones de ventas entre 01/12/2009 and 09/12/2011. 
+- **Fuente**: [Online Retail II](https://archive.ics.uci.edu/dataset/502/online+retail+ii)
+
+Dataset: Online Retail II (UCI). 
 Hoja utilizada: Year 2010–2011
 Fuente: UCI Repository
 
