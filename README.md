@@ -6,7 +6,9 @@ Trabajo Práctico: Visualización de Datos Interactiva - Visualización de la In
 - **Fuente**: [Online Retail II](https://archive.ics.uci.edu/dataset/502/online+retail+ii)
 
 Dataset: Online Retail II (UCI). 
+
 Hoja utilizada: Year 2010–2011
+
 Fuente: UCI Repository
 
 ## 🔍 Entregable 1
